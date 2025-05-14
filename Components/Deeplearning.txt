@@ -1,0 +1,19 @@
+March 13,2025:
+What is deep learning?
+    A subset of Machine learning
+        Machine learning: Turing things(data) into numbers and find patterns.
+    Where as you give the data in traditional programing giving the inputs
+    and rules to get and output
+
+    Machine learning you give the inputs and the outputs and figure out the 
+    relation ship between the data
+
+Why use Machine learning
+    While traditional won't fail machine learning can create solutions 
+    without a consistant input
+    I.E. 2+2 = 4 but also 2x2 = 4
+    the same program cant solve both if given without context while machine
+    learning can
+
+    If you don't have to use ML DON'T!
+    
