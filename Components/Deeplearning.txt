@@ -17,3 +17,48 @@ Why use Machine learning
 
     If you don't have to use ML DON'T!
     
+What is ML good at
+
+    Machine learning works better with problems that require a lot of rules
+
+    Changing enviroments
+
+    Finding insignts in large data sets
+
+What is ML bad at
+
+    Explaining the pattern: They can end up being way to complicated to explain
+
+    When Using a simple option is on the table
+
+    When you cant get an error : It's hard to predict the output of a ML
+
+Machine lerning - Structured data that doesn't change - Record Keeping
+    Tree Based Algorithm -
+Deep Learning - Unstructured data that can change I.E. Food - Movies
+    Neural Network
+
+Structured data 
+    Random Forest
+    Gradient Boosted
+    Naive Bayes
+    Nearest Neighbour
+
+Unstructured data
+    Neural Network
+    Fully Connected neural Network
+    Convolutional neural Network
+    Recurrent neural Network
+    Transformer
+
+Focus on Foundtional Topics
+    Neural networks
+    Fully Connected Neural networks
+    Convolutional Neural networks
+
+Neural networks
+    Set of nodes that comunicate from a given input and desciced off of past and
+    trained data what the output should be
+Neural networks
+    
+
